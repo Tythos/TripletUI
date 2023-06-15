@@ -1,0 +1,12 @@
+{
+  "name": "tripletui",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "repository": "git@github.com:Tythos/tripletui.git",
+  "author": "Brian Kirkpatrick <code@tythos.net>",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.7"
+  }
+}
